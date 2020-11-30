@@ -1,0 +1,246 @@
+DefaultLoot
+	ShotgunAmmo,50,5.372677%
+	NormalAmmo,60,6.447213%
+	BIGAmmo,50,5.372677%
+	SmallAmmo,70,7.521748%
+	Musket Ammo,20,2.149071%
+	Crossbow Ammo,2,0.2149071%
+	Taser Ammo,1,0.1074535%
+	0.5xScope,0.1,0.01074535%
+	2xScope,10,1.074535%
+	4xScope,7,0.7521749%
+	8xScope,5,0.5372677%
+	Compensator,7,0.7521749%
+	Heavy Barrel,0.5,0.05372677%
+	Periscope,0.25,0.02686339%
+	Periscope Barrel,0.25,0.02686339%
+	Red Dot,20,2.149071%
+	Suppressor,4,0.4298142% 
+	Periscope,0.5,0.05372677%
+	Laser Sight,10,1.074535%
+	New_DoubleBarrel,2,0.2149071%
+	DamageAnalyzer,2,0.2149071%
+	New_FastBulletsBarrel,2,0.2149071%
+	New_MoreAccuracyBarrel,2,0.2149071%
+	New_MoreFireRateBarrel,2,0.2149071%
+	W_HealingBarrel001,2,0.2149071%
+	DamageAnalyzer,2,0.2149071%
+	Grenade,10,1.074535%
+	Implosion Grenade,8,0.8596284%
+	KnockBack Grenade,8,0.8596284%
+	Smoke Grenade,20,2.149071%
+	Stun Grenade,20,2.149071%
+	Splinter Grenade,15,1.611803%
+	DummyGrenade,6,0.6447213%
+	OrbitalStrikeGrenade,0.5,0.05372677%
+	OrbitalStrikeGrenade,0.01,0.001074535%
+	CageGrenade,0.01,0.001074535%
+	CageGrenade,7,0.7521749%
+	Volley Grenade,0.01,0.001074535%
+	Volley Grenade,4,0.4298142%
+	WallGrenade,4,0.4298142%
+	TNTGrenade,5,0.5372677%
+	TNTGrenade,0.05,0.005372677%
+	CageGrenade_Taser,0.1,0.01074535%
+	OrbitalGrenade_Taser,0.1,0.01074535%
+	Splinter Grenade_Taser,0.01,0.001074535%
+	LaunchPadGrenade,5,0.5372677%
+	ShieldGrenade,2,0.2149071%
+	FireGrenade,5,0.5372677%
+	HealingGrenade,5,0.5372677%
+	SnowStormGrenade,5,0.5372677%
+	CluterDummy,0.5,0.05372677%
+	ClusterGrenade,2,0.2149071%
+	BombardementGrenade,1,0.1074535%
+	BouncyNade,5,0.5372677%
+	KnockBack Grenade2,0.2,0.02149071%
+	BlackHoleGrenade,1,0.1074535%
+	Big_Healing,0.2,0.02149071%
+	Bandage,100,10.74535%
+	Med Kit,30,3.223606%
+	Katana,1,0.1074535%
+	Ballistic Shield,0.5,0.05372677%
+	Jarl Axe,1,0.1074535%
+	Sabre,1,0.1074535%
+	Viking Axe,1,0.1074535%
+	Rapier,1,0.1074535%
+	Common bloodlust,1,0.1074535%
+	Common dash,1,0.1074535%
+	Common health,1,0.1074535%
+	Common ice,1,0.1074535%
+	Common jump,1,0.1074535%
+	Common poison,1,0.1074535%
+	Common recycling,1,0.1074535%
+	Common regeneration,1,0.1074535%
+	Common relax,1,0.1074535%
+	Common shield,1,0.1074535%
+	Common speed,1,0.1074535%
+	Common spray,1,0.1074535%
+	Common storm,1,0.1074535%
+	Common the hunt,1,0.1074535%
+	Common vampire,1,0.1074535%
+	Common weapon mastery,1,0.1074535%
+	Epic battlecry,0.1,0.01074535%
+	Epic bloodlust,0.1,0.01074535%
+	Epic charge,0.1,0.01074535%
+	Epic dash,0.1,0.01074535%
+	Epic healing words,0.1,0.01074535%
+	Epic health,0.1,0.01074535%
+	Epic ice,0.1,0.01074535%
+	Epic jump,0.1,0.01074535%
+	Epic lit beats,0.1,0.01074535%
+	Epic poison,0.1,0.01074535%
+	Epic recycling,0.1,0.01074535%
+	Epic regeneration,0.1,0.01074535%
+	Epic relax,0.1,0.01074535%
+	Epic shield,0.1,0.01074535%
+	Epic small,0.1,0.01074535%
+	Epic speed,0.1,0.01074535%
+	Epic spray,0.1,0.01074535%
+	Epic storm call,0.1,0.01074535%
+	Epic storm,0.1,0.01074535%
+	Epic the hunt,0.1,0.01074535%
+	Epic vampire,0.1,0.01074535%
+	Epic weapon mastery,0.1,0.01074535%
+	Epic words of justice,0.1,0.01074535%
+	Legendary battlecry,0.01,0.001074535%
+	Legendary bloodlust,0.01,0.001074535%
+	Legendary charge,0.01,0.001074535%
+	Legendary dash,0.01,0.001074535%
+	Legendary healing words,0.01,0.001074535%
+	Legendary health,0.01,0.001074535%
+	Legendary ice,0.01,0.001074535%
+	Legendary jump,0.01,0.001074535%
+	Legendary lit beats,0.01,0.001074535%
+	Legendary poison,0.01,0.001074535%
+	Legendary recycling,0.01,0.001074535%
+	Legendary regeneration,0.01,0.001074535%
+	Legendary relax,0.01,0.001074535%
+	Legendary shield,0.01,0.001074535%
+	Legendary speed,0.01,0.001074535%
+	Legendary spray,0.01,0.001074535%
+	Legendary storm call,0.01,0.001074535%
+	Legendary storm,0.01,0.001074535%
+	Legendary the hunt,0.01,0.001074535%
+	Legendary vampire,0.01,0.001074535%
+	Legendary weapon mastery,0.01,0.001074535%
+	Legendary words of justice,0.01,0.001074535%
+	Rare bloodlust,0.3,0.03223607%
+	Rare dash,0.3,0.03223607%
+	Rare health,0.3,0.03223607%
+	Rare ice,0.3,0.03223607%
+	Rare insight,0.1,0.01074535%
+	Rare jump,0.3,0.03223607%
+	Rare lit beats,0.3,0.03223607%
+	Rare poison,0.3,0.03223607%
+	Rare recycling,0.3,0.03223607%
+	Rare regeneration,0.3,0.03223607%
+	Rare relax,0.3,0.03223607%
+	Rare shield,0.3,0.03223607%
+	Rare speed,0.3,0.03223607%
+	Rare spray,0.3,0.03223607%
+	Rare storm,0.3,0.03223607%
+	Rare the hunt,0.3,0.03223607%
+	Rare vampire,0.3,0.03223607%
+	Rare weapon mastery,0.3,0.03223607%
+	The assassin,0.1,0.01074535%
+	The mad mechanic,0.1,0.01074535%
+	Spell_Blinding light Variant,0.4,0.04298142%
+	Spell_HealingAura Variant,0.4,0.04298142%
+	Spell_SummonRockFix,0.4,0.04298142%
+	Spell_Teleport Variant,0.4,0.04298142%
+	Spell_Track Variant,0.4,0.04298142%
+	Spell_Gust Variant,0.4,0.04298142%
+	Spell_SpeedAura Variant,0.4,0.04298142%
+	Spell_Shockwave Variant,0.4,0.04298142%
+	AK-47,10,1.074535%
+	AUG,3,0.3223606%
+	M16,3,0.3223606%
+	MP-44,4,0.4298142%
+	SCAR-H,8,0.8596284%
+	Mini Gun,2,0.2149071%
+	M1918-BAR,8,0.8596284%
+	MG-42,3,0.3223606%
+	AKS-74U,5,0.5372677%
+	M1a1-Thompson,8,0.8596284%
+	Mac-10,15,1.611803%
+	MP-40,8,0.8596284%
+	MP5-K,7,0.7521749%
+	P90,5,0.5372677%
+	PPSH-41,3,0.3223606%
+	UMP-45,10,1.074535%
+	Vector,5,0.5372677%
+	Mega Gun,0.1,0.01074535%
+	HandCannon,1,0.1074535%
+	Money Stack,0.025,0.002686339%
+	Gangsta Mac,0.05,0.005372677%
+	Burstgun,0.2,0.02149071%
+	Liberating Mini Gun,0.025,0.002686339%
+	Browning M2,4,0.4298142%
+	Water Gun,0.2,0.02149071%
+	TaserMini Gun,0.02,0.002149071%
+	HM-8RGR,0.5,0.05372677%
+	M8,0.5,0.05372677%
+	Famas,4.1,0.4405595%
+	Liberating M1a1-Thompson,0.025,0.002686339%
+	Liberating M16,0.025,0.002686339%
+	BeamAR,0.2,0.02149071%
+	AWPS-74U,0.0025,0.0002686339%
+	Glockinator,1,0.1074535%
+	Crossbow pistol,4,0.4298142%
+	,6,0.6447213%
+	,0.1,0.01074535%
+	,1,0.1074535%
+	,4,0.4298142%
+	,0.5,0.05372677%
+	,1,0.1074535%
+	MGL,1,0.1074535%
+	MissileLauncher,1,0.1074535%
+	Gaussbow,0.1,0.01074535%
+	Beretta 93R,12,1.289443%
+	Deagle,3,0.3223606%
+	Flintlock,8,0.8596284%
+	G18c,20,2.149071%
+	Luger-P08,10,1.074535%
+	m1911,30,3.223606%
+	Revolver,15,1.611803%
+	Taser,3,0.3223606%
+	Tec-9,2,0.2149071%
+	HandCannon,1,0.1074535%
+	Hand Gun,0.025,0.002686339%
+	Hand Gun,0.005,0.0005372677%
+	SilverBaller,0.7,0.07521748%
+	Real Gun,0.05,0.005372677%
+	Really Big Deagle,0.05,0.005372677%
+	Liberating m1911,0.025,0.002686339%
+	FutureRevolver,3,0.3223606%
+	Glue gun,0,0%
+	Grapple,1,0.1074535%
+	Garand,4,0.4298142%
+	Winchester-Model1873,2,0.2149071%
+	M14,3,0.3223606%
+	VSS,3,0.3223606%
+	Liberating Garand,0.025,0.002686339%
+	FAL,0.5,0.05372677%
+	S7,0.25,0.02686339%
+	AA-12,2,0.2149071%
+	DoublebarrelShotgun,10,1.074535%
+	Mossberg-500,10,1.074535%
+	Flying Blunderbuss,0.2,0.02149071%
+	Blunderbuss,3,0.3223606%
+	Mossberg-5000,0.05,0.005372677%
+	Rainmaker,1.2,0.1289443%
+	The Arnold,7,0.7521749%
+	Mossberg-500_taser,0.1,0.01074535%
+	,0.05,0.005372677%
+	Kar98K,2,0.2149071%
+	AWP,0.1,0.01074535%
+	Barrett,0.3,0.03223607%
+	Musket,1,0.1074535%
+	Really Big Barrett,0.025,0.002686339%
+	Liberating Barrett,0.015,0.001611803%
+	TwoShot,0.25,0.02686339%
+	AWP_taser,0.02,0.002149071%
+	Musket_Taser,0.01,0.001074535%
+	BeamSniper,0.1,0.01074535%
+	AWPS-74U,0.0025,0.0002686339%
