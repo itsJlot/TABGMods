@@ -9,13 +9,17 @@ rainbow
 gravity x y z
 #Set timescale factor
 time (factor)
-#Load a scene, this completely breaks the game, but allows looking at some scenes that are usually not available, 0-4 can be loaded.
-#dont expect too much from this. Press alt + f4 to exit the game after exploring a scene
+#Load a scene, player will be spawned in any picked scene. 0-10 are available, but may break things, you may need to alt + f4
 sload (scene num)
 #launch yourself, leave factor at 0 to launch on spot
 launch (launch factor)
 # load up the database of all assets in the game and allow spawning them through a filtered list - very experimental
 loaddb
+# makes any gunshot fired enter the name of the hit object into the search bar of the asset spawning system, to make identifying them easy.
+# also allows getting parent, or root name, toggles if no argument given
+namegun (mode)
+# makes any gunshot fired destroy anything it hits, toggles off and on
+delgun
 # toggle generic spawning UI
 sp
 #toggle car and item spawning
