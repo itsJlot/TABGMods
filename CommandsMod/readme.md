@@ -15,6 +15,8 @@ sload (scene num)
 launch (launch factor)
 # load up the database of all assets in the game and allow spawning them through a filtered list - very experimental
 loaddb
+# load the database, but only load either asset with visuals, or with colliders. This makes it easier to find interesting assets.
+loadtype (mesh/colliders)
 # makes any gunshot fired enter the name of the hit object into the search bar of the asset spawning system, to make identifying them easy.
 # also allows getting parent, or root name, toggles if no argument given
 namegun (mode)
