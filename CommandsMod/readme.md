@@ -19,6 +19,8 @@ loaddb
 loadtype (mesh/colliders)
 # makes any gunshot fired enter the name of the hit object into the search bar of the asset spawning system, to make identifying them easy.
 # also allows getting parent, or root name, toggles if no argument given
+  - `parent` to get the name of the parent object of the thing hit
+  - `root` to get the name of the root object of the thing hit
 namegun (mode)
 # makes any gunshot fired destroy anything it hits, toggles off and on
 delgun
