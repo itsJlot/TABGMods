@@ -1,3 +1,5 @@
+To learn how to install and use the mod, check out [this tutorial](https://youtu.be/c0j56CtgiYs), created by Alfie!
+
 # commands (enter in chat):
 
 ```py
